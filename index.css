@@ -3,7 +3,7 @@ body{
     background-color: hsl(185, 75%, 39%);
 }
 .container{
-    background-color: blanchedalmond;
+    background-color: white;
     box-shadow: 2px  hsl(185, 75%, 39%);
     border-radius: 20px;
     width: 300px;
